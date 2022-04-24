@@ -141,7 +141,7 @@ export default function Turnos() {
                     <TableHead>
                         <TableRow>
                             <TableCell>Paciente</TableCell>
-                            <TableCell>Doctor</TableCell>
+                            <TableCell>Odontologo</TableCell>
                             <TableCell>Matricula</TableCell>
                             <TableCell>Fecha</TableCell>
                             <TableCell>Eliminar</TableCell>

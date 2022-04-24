@@ -1,22 +1,18 @@
-##Proyecto final de Back End I en el curso Certified Tech Developer.
+# Proyecto final de Back End I en el curso Certified Tech Developer.
 
 
-###Estructura
-* model
-  * entity
-* repository
-* service
-  * implementation
-* controller
+### Estructura
+
+Se aplico patron de arquitectura MVC, con las diferentes capas vinculadas dentro de paquetes
 
 
-### Model
+### Modelos con disponibilidad CRUD ya relevados
 * Odontologo
 * Paciente
 * Domicilio
 * Turno
 
-### Endpoints
+### Esquema general de Endpoints
 * /{entity} (GET)
 * /{entity} (POST)
 * /{entity} (PUT)
