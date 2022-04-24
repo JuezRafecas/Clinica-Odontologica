@@ -2,13 +2,13 @@
 
 ## Materia: BackEnd I - Certified Tech Developer - DH
 
-### Pasos a seguir:
+## Pasos a seguir:
 
-1-Se clona el repositorio
-2-Se instalan las dependencias del front y del back cada una por su lado
-3-Se corre localmente el backend (puerto 8080)
-4-Se corre localmente el front end (puerto 3000)
-5-Se accede al local del frontend, y se ingresa con las credenciales marcadas en pantalla
+### 1-Se clona el repositorio
+### 2-Se instalan las dependencias del front y del back cada una por su lado
+### 3-Se corre localmente el backend (puerto 8080)
+### 4-Se corre localmente el front end (puerto 3000)
+### 5-Se accede al local del frontend, y se ingresa con las credenciales marcadas en pantalla
 
 # Notas a tener en cuenta:
 

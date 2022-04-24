@@ -13,9 +13,9 @@ Se aplico patron de arquitectura MVC, con las diferentes capas vinculadas dentro
 * Turno
 
 ### Esquema general de Endpoints
-* /{entity} (GET)
-* /{entity} (POST)
-* /{entity} (PUT)
-* /{entity}/{id} (DELETE)
-* /{entity}/{id} (GET)
+* /{entidad} (GET)
+* /{entidad} (POST)
+* /{entidad} (PUT)
+* /{entidad}/{id} (DELETE)
+* /{entidad}/{id} (GET)
 
